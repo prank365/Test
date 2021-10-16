@@ -9,6 +9,8 @@
 				<dict>
 					<key>DNSProtocol</key>
 					<string>HTTPS</string>
+					<key>ServerAddresses</key>
+					<string>162.14.132.76</string>
 					<key>ServerURL</key>
 					<string>https://dh-dns.global-idc.net/dns-query</string>
 				</dict>
